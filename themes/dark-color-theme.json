@@ -1,6 +1,7 @@
 {
 	"name": "LeiCrafts Coding Theme",
 	"colors": {
+		// General
 		"editor.background": "#05061f",
 		"editor.foreground": "#eeffff",
 		
@@ -17,15 +18,25 @@
 
 		"activityBarBadge.background": "#007acc",
 
+
 		// Title Bar
 		"titleBar.activeBackground": "#05061f",
 		"titleBar.activeForeground": "#00ffff",
 
-		// Dropdown
-		"dropdown.background": "#05061f",
-		"dropdown.foreground": "#00ffff",
-		// "dropdown.border": "#00ffff",
-		// "dropdown.listBackground": "#ff0000",
+
+		// Menus
+		"menu.background": "#05061f",
+		"menu.foreground": "#00ffff",
+
+		"menu.border": "#409cb3",
+		"menu.separatorBackground": "#409cb3",
+
+		"button.background": "#1820ff",
+
+		// File Tabs
+		"editorGroupHeader.tabsBackground": "#030629",
+		"tab.": "#05061f",
+
 	},
 	"tokenColors": [
 		{
@@ -76,7 +87,8 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#d877ff"
+				//"foreground": "#d877ff"
+				"foreground": "#ff0fff"
 			}
 		},
 		{
@@ -120,7 +132,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f83939",
+				"foreground": "#ff0f0f",
 			}
 		},
 		{
@@ -170,7 +182,8 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#99ff00"
+				"foreground": "#0fff7b"
+				//"foreground": "#0fff50"
 			}
 		},
 		{
@@ -186,7 +199,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				//"foreground": "#FFCB6B"
+				"foreground": "#FFff0f"
 			}
 		},
 		{
@@ -195,7 +209,8 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				//"foreground": "#B2CCD6"
+				"foreground": "#FFff0f"
 			}
 		},
 		{
@@ -220,7 +235,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#d877ff"
 			}
 		},
 		{
@@ -230,7 +245,8 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				//"foreground": "#FF5370",
+				"foreground": "#d877ff"
 			}
 		},
 		{

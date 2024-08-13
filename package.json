@@ -3,7 +3,7 @@
   "displayName": "LeiCrafts-Coding-Theme",
   "icon": "logo.jpg",
   "description": "",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.92.0"
   },
@@ -13,14 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "LeiCrafts Coding Theme - Dark",
+        "label": "LeiCrafts Coding Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-theme.json"
-      },
-      {
-        "label": "LeiCrafts Coding Theme - High Contrast ",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-hc-color-theme.json"
       }
     ]
   },
