@@ -1,0 +1,21 @@
+{
+  "name": "leicrafts-coding-theme",
+  "displayName": "leicrafts-coding-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LeiCrafts Coding Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LeiCrafts Coding Theme-color-theme.json"
+      }
+    ]
+  }
+}
