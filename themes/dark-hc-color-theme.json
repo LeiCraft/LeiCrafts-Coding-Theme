@@ -1,10 +1,31 @@
 {
 	"name": "LeiCrafts Coding Theme",
 	"colors": {
-		"editor.background": "#0b0c1b",
+		"editor.background": "#05061f",
 		"editor.foreground": "#eeffff",
+		
+
+		// Side Bar
+		"sideBar.background":"#030629",
+		"sideBar.foreground": "#00ffff",
+		//"sideBar.border": "#409cb3",
+		"sideBarTitle.foreground": "#bbbbbb",
+
+		// Activity Bar
+		"activityBar.background": "#05061f",
+		"activityBar.foreground": "#00ffff",
+
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+
+		// Title Bar
+		"titleBar.activeBackground": "#05061f",
+		"titleBar.activeForeground": "#00ffff",
+
+		// Dropdown
+		"dropdown.background": "#05061f",
+		"dropdown.foreground": "#00ffff",
+		// "dropdown.border": "#00ffff",
+		// "dropdown.listBackground": "#ff0000",
 	},
 	"tokenColors": [
 		{
@@ -55,7 +76,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#d877ff"
+				"foreground": "#ff0fff"
 			}
 		},
 		{
@@ -99,7 +120,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#f83939",
+				"foreground": "#ff0f0f",
 			}
 		},
 		{
@@ -134,7 +155,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ff4747"
+				"foreground": "#ff8147"
 			}
 		},
 		{
@@ -149,7 +170,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#99ff00"
+				"foreground": "#0fff50"
 			}
 		},
 		{
@@ -165,7 +186,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#FFff0f"
 			}
 		},
 		{
