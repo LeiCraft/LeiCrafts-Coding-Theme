@@ -1,8 +1,9 @@
 {
   "name": "leicrafts-coding-theme",
   "displayName": "LeiCrafts-Coding-Theme",
+  "icon": "logo.jpg",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.92.0"
   },
