@@ -19,14 +19,17 @@
     ]
   },
   "repository": {
-		"type": "git",
-		"url": "git+https://github.com/LeiCraft/LeiCrafts-Coding-Theme.git"
-	},
-	"author": "LeiCraft_",
-  "publisher": "LeiCraft_MC",
-	"license": "AGPL-3.0-only",
-	"bugs": {
-		"url": "https://github.com/LeiCraft/LeiCrafts-Coding-Theme/issues"
-	},
-	"homepage": "https://github.com/LeiCraft/LeiCrafts-Coding-Theme#readme"
+    "type": "git",
+    "url": "git+https://github.com/LeiCraft/LeiCrafts-Coding-Theme.git"
+  },
+  "author": "LeiCraft_",
+  "publisher": "LeiCraftMC",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/LeiCraft/LeiCrafts-Coding-Theme/issues"
+  },
+  "homepage": "https://github.com/LeiCraft/LeiCrafts-Coding-Theme#readme",
+  "dependencies": {
+    "@vscode/vsce": "^2.31.1"
+  }
 }
