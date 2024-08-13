@@ -1,6 +1,6 @@
 {
   "name": "leicrafts-coding-theme",
-  "displayName": "leicrafts-coding-theme",
+  "displayName": "LeiCrafts-Coding-Theme",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -17,5 +17,16 @@
         "path": "./themes/LeiCrafts Coding Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/LeiCraft/LeiCrafts-Coding-Theme.git"
+	},
+	"author": "LeiCraft_",
+  "publisher": "LeiCraft_MC",
+	"license": "AGPL-3.0-only",
+	"bugs": {
+		"url": "https://github.com/LeiCraft/LeiCrafts-Coding-Theme/issues"
+	},
+	"homepage": "https://github.com/LeiCraft/LeiCrafts-Coding-Theme#readme"
 }

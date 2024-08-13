@@ -25,7 +25,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#00ffff"
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#00ffff"
 			}
 		},
 		{
