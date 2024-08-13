@@ -4,7 +4,6 @@
 		// General
 		"editor.background": "#05061f",
 		"editor.foreground": "#eeffff",
-		
 
 		// Side Bar
 		"sideBar.background":"#030629",
@@ -31,11 +30,10 @@
 		"menu.border": "#409cb3",
 		"menu.separatorBackground": "#409cb3",
 
-		"button.background": "#1820ff",
-
 		// File Tabs
-		"editorGroupHeader.tabsBackground": "#030629",
-		"tab.": "#05061f",
+		"editorGroupHeader.tabsBackground": "#1c1f3b",
+		"tab.inactiveBackground": "#1c1f3b",
+		"tab.border": "#18415c",
 
 	},
 	"tokenColors": [
@@ -108,7 +106,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#00b7ff"
+				"foreground": "#00b7ff",
 			}
 		},
 		{
