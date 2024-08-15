@@ -3,7 +3,7 @@
   "displayName": "LeiCrafts-Coding-Theme",
   "icon": "logo.jpg",
   "description": "",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.88.0"
   },

@@ -35,6 +35,26 @@
 		"tab.inactiveBackground": "#1c1f3b",
 		"tab.border": "#18415c",
 
+
+		// Satus Bar
+		//"statusBar.background": "#0008ff",
+
+		// Command Pallate
+		"quickInput.foreground": "#00ffff",
+		"quickInput.background": "#05061f",
+
+
+		// Notifications
+		"notificationCenterHeader.foreground": "#00ffff",
+		"notificationCenterHeader.background": "#05061f",
+		"notificationCenter.border": "#409cb3",
+
+		"notifications.background": "#05061f",
+		"notifications.foreground": "#00ffff",
+		"notifications.border": "#409cb3",
+
+
+
 	},
 	"tokenColors": [
 		{
